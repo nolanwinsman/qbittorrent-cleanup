@@ -20,7 +20,7 @@ Please use this script responsibly and only for its intended purposes. Any illeg
 git clone https://github.com/nolanwinsman/qbittorrent-cleanup.git
 ```
 
-# Setting Up a Python Virtual Environment
+### Setting Up a Python Virtual Environment
 
 2. **Navigate to your project directory:**
 
