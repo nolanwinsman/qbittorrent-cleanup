@@ -2,7 +2,7 @@
 
 ---
 
-Script that deletes qbittorrent torrents that are older than 90 days.
+Script that deletes qbittorrent torrents that are older than 90 days and have the Category `tv-sonarr` or `radarr`
 
 WARNING: This also deletes the files. Please understand how the script works and what it does before running it.
 
