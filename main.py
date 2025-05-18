@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-# Script that puts torrent files in the proper folders using Torrent Tags
-# so movie torrents would be put in the movies folder, ect.
+# Script that deletes any torrents INCLUDING ITS FILES that are older than 90 days and have the category 'tv-sonarr' or 'radarr'
 
 # Author : Nolan Winsman
 # Date : 2025-05-18
